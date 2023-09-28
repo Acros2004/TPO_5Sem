@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.github.vitalliuss.helloci.AppTest" time="0.081" tests="5" errors="0" skipped="1" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.github.vitalliuss.helloci.AppTest" time="0.06" tests="5" errors="0" skipped="1" failures="0">
   <properties>
     <property name="java.specification.version" value="20"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1251"/>
-    <property name="java.class.path" value="C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab5\Java\target\test-classes;C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab5\Java\target\classes;C:\Users\nikit\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\nikit\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab5\Java\target\test-classes;C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab5\Java\target\classes;C:\Users\nikit\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\nikit\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-20\bin"/>
-    <property name="sun.java.command" value="C:\Users\nikit\AppData\Local\Temp\surefire15075549828820827496\surefirebooter18020817137177189680.jar C:\Users\nikit\AppData\Local\Temp\surefire15075549828820827496 2023-09-29T00-03-24_675-jvmRun1 surefire16897028619218611639tmp surefire_0916347193641788526tmp"/>
+    <property name="sun.java.command" value="C:\Users\nikit\AppData\Local\Temp\surefire3122133395785602202\surefirebooter14283327400851617056.jar C:\Users\nikit\AppData\Local\Temp\surefire3122133395785602202 2023-09-29T00-12-30_423-jvmRun1 surefire9353063601367681361tmp surefire_012196098357400244046tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab5\Java\target\test-classes;C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab5\Java\target\classes;C:\Users\nikit\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\nikit\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab5\Java\target\test-classes;C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab5\Java\target\classes;C:\Users\nikit\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\nikit\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\nikit"/>
     <property name="user.language" value="ru"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\nikit\AppData\Local\Temp\surefire15075549828820827496\surefirebooter18020817137177189680.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\nikit\AppData\Local\Temp\surefire3122133395785602202\surefirebooter14283327400851617056.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="20.0.1+9-29"/>
@@ -59,10 +59,10 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="64.0"/>
   </properties>
-  <testcase name="testShouldBeFailed" classname="com.github.vitalliuss.helloci.AppTest" time="0.006"/>
-  <testcase name="testShouldBePassed" classname="com.github.vitalliuss.helloci.AppTest" time="0.001"/>
+  <testcase name="testShouldBeFailed" classname="com.github.vitalliuss.helloci.AppTest" time="0.005"/>
+  <testcase name="testShouldBePassed" classname="com.github.vitalliuss.helloci.AppTest" time="0"/>
   <testcase name="testAnotherMethod" classname="com.github.vitalliuss.helloci.AppTest" time="0"/>
-  <testcase name="testAnotherClass" classname="com.github.vitalliuss.helloci.AppTest" time="0.002"/>
+  <testcase name="testAnotherClass" classname="com.github.vitalliuss.helloci.AppTest" time="0.001"/>
   <testcase name="testShouldBeSKipped" classname="com.github.vitalliuss.helloci.AppTest" time="0">
     <skipped message="Not implemented yet"/>
   </testcase>
