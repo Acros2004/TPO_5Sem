@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.CalculatorTests" time="1.552" tests="10" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab7Java\target\test-classes;C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab7Java\target\classes;C:\Users\nikit\.m2\repository\org\testng\testng\7.7.0\testng-7.7.0.jar;C:\Users\nikit\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\nikit\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\nikit\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\nikit\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.22.0\surefire-testng-utils-2.22.0.jar;C:\Users\nikit\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.22.0\surefire-grouper-2.22.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
+    <property name="sun.java.command" value="C:\Users\nikit\AppData\Local\Temp\surefire1682407977591019532\surefirebooter17746342944100684909.jar C:\Users\nikit\AppData\Local\Temp\surefire1682407977591019532 2023-10-21T02-35-17_630-jvmRun1 surefire5146705597188328253tmp surefire_03712649313933439892tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab7Java\target\test-classes;C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab7Java\target\classes;C:\Users\nikit\.m2\repository\org\testng\testng\7.7.0\testng-7.7.0.jar;C:\Users\nikit\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\nikit\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\nikit\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\nikit\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.22.0\surefire-testng-utils-2.22.0.jar;C:\Users\nikit\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.22.0\surefire-grouper-2.22.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\nikit"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-04-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab7Java"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\nikit\AppData\Local\Temp\surefire1682407977591019532\surefirebooter17746342944100684909.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.19+9-LTS-224"/>
+    <property name="user.name" value="nikit"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\nikit\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\nikit\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2022.3.2"/>
+    <property name="java.version" value="11.0.19"/>
+    <property name="user.dir" value="C:\Users\nikit\Desktop\univer\3cource1sem\TPO\lab7Java"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-11\bin;D:\app\M_USER_BD\product\12.1.0\dbhome_1\bin;C:\Python311\Scripts\;C:\Python311\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NoteBook FanControl\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\apache-maven-3.9.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Program Files\Java\jdk-19\bin;C:\Users\nikit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\nikit\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-11\bin;;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.19+9-LTS-224"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="testAdd" classname="org.example.CalculatorTests" time="0.026"/>
+  <testcase name="testDiv" classname="org.example.CalculatorTests" time="0"/>
+  <testcase name="testDivByZero" classname="org.example.CalculatorTests" time="0.002"/>
+  <testcase name="testFindSquareRoot" classname="org.example.CalculatorTests" time="0"/>
+  <testcase name="testFindSquareRootZero" classname="org.example.CalculatorTests" time="0"/>
+  <testcase name="testMult" classname="org.example.CalculatorTests" time="0"/>
+  <testcase name="testPow" classname="org.example.CalculatorTests" time="0.001"/>
+  <testcase name="testPowWithDegreeZero" classname="org.example.CalculatorTests" time="0"/>
+  <testcase name="testSquareRootNegativeNumber" classname="org.example.CalculatorTests" time="0.001"/>
+  <testcase name="testSub" classname="org.example.CalculatorTests" time="0.001"/>
+</testsuite>
