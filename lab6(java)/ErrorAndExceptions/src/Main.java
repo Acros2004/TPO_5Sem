@@ -55,9 +55,9 @@ public class Main {
         groupB.addStudent(student3);
 
         try {
-            student1.addGrade("Math", 8);
+            /*student1.addGrade("Math", 8);
             student1.addGrade("Physics", 9);
-            student1.addGrade("Chemistry", 7);
+            student1.addGrade("Chemistry", 7);*/
 
             student2.addGrade("Math", 7);
             student2.addGrade("Physics", 8);
